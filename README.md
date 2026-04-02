@@ -69,7 +69,6 @@ To use a badge:
   1. Press `Ctrl` + `f` on your keyboard, to bring out the search modal.
   2. Enter the name of the badge you need.
   3. Copy the appropriate `![Name](link)` element and paste it in your Markdown file (e.g. README.md)
-- You could also visit the live site at [ileriayo.github.io/markdown-badges/](https://ileriayo.github.io/markdown-badges/)
 
 # Tips
 
@@ -114,13 +113,6 @@ https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
 
 The project has a separate contribution file. Please adhere to the steps listed in the separate contributions [file](./CONTRIBUTING.md)
 
-## Contact
-
-You can reach me on [Twitter @ileriayooo](https://twitter.com/Ileriayooo)
-
-## License
-
-[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 
 <hr>
 <hr>
